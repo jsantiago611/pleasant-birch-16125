@@ -19,7 +19,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: small
     padding_bottom: large
     background_color: primary
   - type: grid_section
