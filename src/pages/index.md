@@ -41,7 +41,7 @@ sections:
             icon_position: right
         image: images/Elements for Personal Insurance Web Co (11).png
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: top
         media_width: fifty
       - title: The Big Title For the Feature
         content: >-
