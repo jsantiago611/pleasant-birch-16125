@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "Conversion-driven\_ Insurance Websites"
+    title: You want
     subtitle: for Independent Insurance Agencies
     content: ''
     actions:
