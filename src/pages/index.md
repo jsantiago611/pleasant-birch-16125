@@ -38,7 +38,7 @@ sections:
     padding_bottom: none
     background_color: secondary
   - type: grid_section
-    title: Cards Grid Section
+    title: Which type of agent are you?
     subtitle: ''
     grid_items:
       - title: Section Item 1
