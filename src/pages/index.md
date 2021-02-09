@@ -24,7 +24,7 @@ sections:
     background_image_position: left top
     image: images/smartmockups_kkx0p9rg.jpg
   - type: grid_section
-    title: 'Conversion-driven '
+    title: Conversion-driven for indie insurance agencies
     subtitle: ''
     align: center
     grid_items:
