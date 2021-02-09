@@ -4,7 +4,10 @@ sections:
   - type: hero_section
     title: You want
     subtitle: More Leads More Sales More Authority
-    content: ''
+    content: |
+      *   More Leads
+
+      *   More Sales
     actions:
       - label: Choose Your Design
         url: /pricing
