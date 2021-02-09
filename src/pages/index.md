@@ -25,10 +25,7 @@ sections:
     image: images/smartmockups_kkx0p9rg.jpg
   - type: cta_section
     title: Conversion-driven sites for Insurance Agencies
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: ''
     actions:
       - label: Learn More
         url: /features
