@@ -112,7 +112,7 @@ sections:
     padding_top: large
   - type: features_section
     title: Features Section
-    subtitle: Features Section Example
+    subtitle: ''
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
