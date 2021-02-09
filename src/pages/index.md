@@ -37,7 +37,7 @@ sections:
     padding_bottom: none
     background_color: secondary
   - type: grid_section
-    title: Choose your Producer Persona
+    title: Choose your Producer Persona.
     subtitle: ''
     grid_items:
       - title: ''
