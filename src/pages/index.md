@@ -33,7 +33,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: small
+    padding_top: none
     padding_bottom: small
     background_color: secondary
   - type: grid_section
