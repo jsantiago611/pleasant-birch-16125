@@ -23,6 +23,22 @@ sections:
     background_image_opacity: 5
     background_image_position: left top
     image: images/smartmockups_kkx0p9rg.jpg
+  - type: cta_section
+    title: This is Call To Action Section In DIY Theme!
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+    actions:
+      - label: Learn More
+        url: /features
+        style: secondary
+    actions_position: right
+    actions_width: fourty
+    align: left
+    padding_top: large
+    padding_bottom: large
+    background_color: primary
   - type: grid_section
     title: Conversion-driven Websites for indie Insurance Agencies
     subtitle: ''
@@ -53,22 +69,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-  - type: cta_section
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    actions:
-      - label: Learn More
-        url: /features
-        style: secondary
-    actions_position: right
-    actions_width: fourty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
