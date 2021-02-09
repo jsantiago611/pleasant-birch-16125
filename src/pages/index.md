@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: "Conversion-driven\_ Insurance Websites"
     subtitle: ''
-    content: |
-      #### Conversion-driven **Websites**
+    content: "#### \_for Independent Insurance Agencies\n"
     actions:
       - label: Choose Your Design
         url: /pricing
