@@ -37,36 +37,6 @@ sections:
     padding_top: small
     padding_bottom: none
     background_color: secondary
-  - type: grid_section
-    title: Conversion-driven Websites for indie Insurance Agencies
-    subtitle: ''
-    align: center
-    grid_items:
-      - image_alt: Contentful logo
-        image_align: center
-        title: More Leads
-        subtitle: ''
-      - image_alt: Netlify logo
-        image_align: center
-        title: More Sales
-      - image_alt: Gatsby logo
-        image_align: center
-        title: More
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: small
-    padding_bottom: none
-    actions:
-      - label: Choose Your Design
-        url: lorem-ipsum
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
