@@ -42,13 +42,12 @@ sections:
     grid_items:
       - title: ''
         title_align: left
-        content: >
+        content: |
           ##### The Overwhelmed Agency Principal
 
+          *I don't have **time **to create a high-converting website!*
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          **
         content_align: left
         actions:
           - label: Learn More
