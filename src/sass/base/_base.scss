@@ -30,13 +30,6 @@ html {
    font-style: normal;
 }
 
-  @font-face {
-   font-family: 'Cen';
-   src: url('../fonts/CENSCBK.TTF') format('opentype');
-   font-weight: 400;
-   font-style: normal;
-}
-
 body {
 	background-color: $color-body-bg;
 	color: $color-body-text;
