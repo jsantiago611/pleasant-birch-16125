@@ -38,7 +38,7 @@ sections:
     padding_bottom: none
     background_color: secondary
   - type: grid_section
-    title: Which type of agent are you?
+    title: Choose your Producer Persona
     subtitle: ''
     grid_items:
       - title: Section Item 1
