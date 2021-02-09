@@ -41,7 +41,7 @@ sections:
     title: Choose your Producer Persona
     subtitle: ''
     grid_items:
-      - title: The Burned Out
+      - title: Overwhelmed
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
