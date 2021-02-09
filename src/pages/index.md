@@ -20,6 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    background_image: images/smartmockups_kkx0p9rg.jpg
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
