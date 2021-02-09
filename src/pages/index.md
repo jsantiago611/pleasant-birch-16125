@@ -45,9 +45,9 @@ sections:
         content: |
           ##### The Overwhelmed Agency Principal
 
-          *I don't have **time **to create a high-converting website!*
+          \*I don't have *time to create a high-converting website!*
 
-          **
+          \*\*
         content_align: left
         actions:
           - label: Learn More
