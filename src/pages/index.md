@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: You want
-    subtitle: for Independent Insurance Agencies
+    subtitle: More Leads
     content: ''
     actions:
       - label: Choose Your Design
