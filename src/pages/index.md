@@ -19,6 +19,7 @@ sections:
     background_image: images/smartmockups_kkx0p9rg.jpg
     background_image_opacity: 15
     background_image_position: left top
+    image: images/smartmockups_kkx0p9rg.jpg
   - type: grid_section
     title: ''
     subtitle: ''
