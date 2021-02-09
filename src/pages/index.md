@@ -24,7 +24,7 @@ sections:
     background_image_position: left top
     image: images/smartmockups_kkx0p9rg.jpg
   - type: cta_section
-    title: 'COnversion-driven bsites for '
+    title: COnversion-driven bsites for Insurance Agencies
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
