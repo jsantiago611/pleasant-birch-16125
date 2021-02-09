@@ -24,7 +24,7 @@ sections:
     background_image_position: left top
     image: images/smartmockups_kkx0p9rg.jpg
   - type: grid_section
-    title: ''
+    title: 'Conversion-driven '
     subtitle: ''
     align: center
     grid_items:
