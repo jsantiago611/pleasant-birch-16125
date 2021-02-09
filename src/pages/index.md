@@ -21,6 +21,7 @@ sections:
     background_color: primary
     background_image: images/smartmockups_kkx0p9rg.jpg
     background_image_opacity: 15
+    background_image_position: left center
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
