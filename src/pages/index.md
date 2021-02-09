@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     content: ''
     actions:
-      - label: Try Free
+      - label: Choose Your Design
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
