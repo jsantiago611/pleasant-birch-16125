@@ -26,7 +26,7 @@ sections:
   - type: cta_section
     title: ''
     content: |
-      ## Conversion-driven sites for Insurance Agencies&#xA;&#xA;
+      ## Conversion-driven Sites for Insurance Agencies&#xA;&#xA;
     actions:
       - label: CHOOSE YOUR DESIGN
         url: /features
