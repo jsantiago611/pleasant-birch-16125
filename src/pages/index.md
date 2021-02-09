@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: You want
-    subtitle: More Leads
+    subtitle: More Leads More Sales More Authority
     content: ''
     actions:
       - label: Choose Your Design
