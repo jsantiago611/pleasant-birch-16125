@@ -33,8 +33,7 @@ sections:
       - image_alt: Netlify logo
         image_align: center
         title: 'More '
-      - image: images/logo-3.svg
-        image_alt: Gatsby logo
+      - image_alt: Gatsby logo
         image_align: center
         title: More
     grid_cols: three
