@@ -40,7 +40,7 @@ sections:
     title: Choose your Producer Persona
     subtitle: ''
     grid_items:
-      - title: Overwhelmed
+      - title: ''
         title_align: left
         content: >
           ##### Overwhelmed Agency Principal
