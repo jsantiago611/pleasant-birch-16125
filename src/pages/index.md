@@ -5,11 +5,7 @@ sections:
     title: Agent-Friendly Insurance Webites
     subtitle: ''
     content: |
-      ###### More Leads
-
-      ###### More Sales
-
-      ###### More Customer Service
+      ######
     actions:
       - label: Try Free
         url: /pricing
