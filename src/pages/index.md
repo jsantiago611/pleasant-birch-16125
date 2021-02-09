@@ -36,6 +36,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Gatsby logo
         image_align: center
+        title: More
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
