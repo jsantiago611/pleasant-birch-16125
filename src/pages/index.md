@@ -16,7 +16,7 @@ sections:
     media_position: right
     media_width: fifty
     align: left
-    padding_top: medium
+    padding_top: large
     padding_bottom: large
     background_color: primary
     background_image: images/smartmockups_kkx0p9rg.jpg
