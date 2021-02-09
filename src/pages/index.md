@@ -19,7 +19,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    background_image: images/smartmockups_kkx0p9rg.jpg
     background_image_opacity: 5
     background_image_position: left top
     image: images/smartmockups_kkx0p9rg.jpg
