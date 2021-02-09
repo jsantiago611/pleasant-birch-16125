@@ -27,7 +27,7 @@ sections:
       - image_alt: Contentful logo
         image_align: center
         title: More Leads
-        subtitle: More Leads
+        subtitle: ''
       - image_alt: Netlify logo
         image_align: center
         title: More Sales
