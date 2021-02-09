@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 15
     background_image_position: left top
   - type: grid_section
-    title: Image Grid
+    title: You want
     subtitle: Grid Section Example
     align: center
     grid_items:
