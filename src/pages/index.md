@@ -23,7 +23,7 @@ sections:
     background_color: primary
     background_image_opacity: 5
     background_image_position: left top
-    image: images/FireFox Style hero (1).png
+    image: images/FireFox Style hero (2).png
   - type: cta_section
     title: ''
     content: |
