@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Agent-Friendly Insurance Webites
     subtitle: ''
-    content: |
-      ######
+    content: ''
     actions:
       - label: Try Free
         url: /pricing
