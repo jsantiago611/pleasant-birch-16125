@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: "Conversion-driven\_ Insurance Websites"
-    subtitle: "\_for Independent Insurance Agencies"
+    subtitle: for Independent Insurance Agencies
     content: ''
     actions:
       - label: Choose Your Design
