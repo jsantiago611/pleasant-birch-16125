@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: You want
+    title: Agent-Friendly Insurance Webites
     subtitle: ''
     content: |
       ###### More Leads
