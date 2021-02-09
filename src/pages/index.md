@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: 'You want:'
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      #### More Leads 
+
+      #### More Sales
+
+      #### More Customer Service
     actions:
       - label: Try Free
         url: /pricing
