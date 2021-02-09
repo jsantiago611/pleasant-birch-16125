@@ -59,6 +59,16 @@ sections:
     grid_gap_vert: medium
     padding_top: small
     padding_bottom: none
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
