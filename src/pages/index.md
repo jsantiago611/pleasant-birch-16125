@@ -27,7 +27,7 @@ sections:
     title: Conversion-driven sites for Insurance Agencies
     content: ''
     actions:
-      - label: Learn More
+      - label: CHOOSE YOUR DESIGN
         url: /features
         style: secondary
     actions_position: right
