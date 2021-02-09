@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'You want:'
+    title: You want
     subtitle: ''
     content: |
       ###### More Leads
