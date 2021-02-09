@@ -39,6 +39,7 @@ sections:
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    padding_top: small
   - type: features_section
     title: Features Section
     subtitle: Features Section Example
