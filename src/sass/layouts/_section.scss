@@ -44,7 +44,8 @@
 
 .hero__copy {
 	&:not(:first-child) {
-		margin-top: 1.11111em;
+        margin-top: 1.11111em;
+        margin-bottom: 0.1em;
 		font-size: 1.70em;
 	}
 }
