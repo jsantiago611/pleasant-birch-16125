@@ -25,7 +25,7 @@ sections:
     image: images/smartmockups_kkx0p9rg.jpg
   - type: grid_section
     title: Conversion-driven Websites for indie insurance agencies
-    subtitle: ''
+    subtitle: Conversion-driven Websites for indie insurance agencies
     align: center
     grid_items:
       - image_alt: Contentful logo
