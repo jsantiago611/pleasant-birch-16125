@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Agent-Friendly Insurance Webites
+    title: "Conversion-driven\_ Insurance Websites for Independent Insurance Agencies"
     subtitle: ''
     content: ''
     actions:
