@@ -24,7 +24,7 @@ sections:
     background_image_position: left top
   - type: grid_section
     title: You want
-    subtitle: Grid Section Example
+    subtitle: ''
     align: center
     grid_items:
       - image_alt: Contentful logo
