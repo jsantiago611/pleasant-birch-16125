@@ -44,7 +44,7 @@ sections:
     padding_top: small
     padding_bottom: none
     actions:
-      - label: lorem-ipsum
+      - label: Choose Your Design
         url: lorem-ipsum
         style: link
         has_icon: false
