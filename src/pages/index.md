@@ -34,7 +34,7 @@ sections:
     actions_width: fourty
     align: left
     padding_top: small
-    padding_bottom: large
+    padding_bottom: medium
     background_color: secondary
   - type: grid_section
     title: Conversion-driven Websites for indie Insurance Agencies
