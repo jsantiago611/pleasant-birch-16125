@@ -41,8 +41,6 @@ sections:
         image_align: center
       - image_alt: DatoCMS logo
         image_align: center
-      - image_alt: Next.js logo
-        image_align: center
       - image_alt: Gridsome logo
         image_align: center
     grid_cols: four
