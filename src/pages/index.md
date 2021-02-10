@@ -31,7 +31,7 @@ sections:
     actions:
       - label: CHOOSE YOUR DESIGN
         url: /features
-        style: secondary
+        style: primary
     actions_position: right
     actions_width: fourty
     align: left
