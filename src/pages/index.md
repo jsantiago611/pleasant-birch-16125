@@ -39,7 +39,7 @@ sections:
     padding_bottom: none
     background_color: secondary
   - type: grid_section
-    title: Which Producer Persona are you?
+    title: Which Producer sounds like you?
     subtitle: ''
     grid_items:
       - title: ''
