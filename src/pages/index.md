@@ -19,7 +19,7 @@ sections:
     media_width: sixty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     background_color: primary
     background_image_opacity: 5
     background_image_position: left top
