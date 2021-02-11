@@ -7,9 +7,9 @@ sections:
     content: |
       ☑ More Leads
 
-      → More Sales
+      ☑ More Sales
 
-      → More Authority
+      ☑ More Authority
     actions:
       - label: Choose Your Design
         url: /pricing
