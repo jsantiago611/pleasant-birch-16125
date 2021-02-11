@@ -121,7 +121,7 @@ sections:
         image: images/FireFox Style hero.png
         image_alt: Brandon Guidelines
         media_position: right
-        media_width: thirty-three
+        media_width: fifty
     feature_padding_vert: small
     background_color: primary
   - type: features_section
