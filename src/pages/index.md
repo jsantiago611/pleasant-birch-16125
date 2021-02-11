@@ -29,7 +29,7 @@ sections:
     content: |
       ##### Conversion-driven Sites for Independent Insurance Agencies ↓
     actions:
-      - label: CHOOSE YOUR DESIGN
+      - label: CHOOSE YOUR DESIGN NOW
         url: /features
         style: primary
     actions_position: right
