@@ -20,7 +20,7 @@ sections:
     align: left
     padding_top: medium
     padding_bottom: small
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 5
     background_image_position: left top
     image: images/FireFox Style hero (2).png
