@@ -182,7 +182,7 @@ sections:
     align: center
     background_color: secondary
   - type: grid_section
-    title: Reviews Section
+    title: Why would you want to work with a ______?
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
