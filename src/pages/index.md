@@ -17,7 +17,7 @@ sections:
     image_alt: Hero section placeholder image
     media_position: right
     media_width: sixty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     background_color: primary
