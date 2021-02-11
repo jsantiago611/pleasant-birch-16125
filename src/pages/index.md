@@ -185,7 +185,7 @@ sections:
     title: Why would you want to work with a ______?
     grid_items:
       - content: >
-          ##### *You can sleep. Blissfully.*
+          ***You can sleep. Blissfully.***
 
 
           You never get stood up, left wondering: ‘where in the world is my
