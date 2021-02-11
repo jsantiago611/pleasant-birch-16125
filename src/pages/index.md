@@ -33,6 +33,7 @@ sections:
         url: /features
         style: primary
         has_icon: true
+        icon: arrow-right
     actions_position: right
     actions_width: fourty
     align: left
