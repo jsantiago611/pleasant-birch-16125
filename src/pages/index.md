@@ -37,7 +37,7 @@ sections:
     actions_position: right
     actions_width: fourty
     align: left
-    padding_top: none
+    padding_top: small
     padding_bottom: none
     background_color: primary
   - type: grid_section
