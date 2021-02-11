@@ -115,7 +115,7 @@ sections:
     features:
       - title: Don't sweat.
         subtitle: >-
-          We're here to get you a blazing-fast modern website that attracts the
+          I'm here to get you a blazing-fast modern website that attracts the
           right customers, alleviates customer service work, and increases
           trust.
         image: images/brandon-guidelines.png
