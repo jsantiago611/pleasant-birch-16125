@@ -7,7 +7,7 @@ sections:
     content: |
       ☑ More Leads
 
-      ☑ More Sales
+      ☑ Less Disruptions
 
       ☑ More Authority
     actions:
