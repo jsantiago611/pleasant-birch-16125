@@ -113,7 +113,7 @@ sections:
     padding_top: large
   - type: features_section
     features:
-      - title: Don't sweat.
+      - title: Relax.
         subtitle: >-
           I'm here to get you a blazing-fast modern website that attracts the
           right customers, alleviates customer service work, and increases
