@@ -38,7 +38,7 @@ sections:
     actions_width: fourty
     align: left
     padding_top: small
-    padding_bottom: none
+    padding_bottom: small
     background_color: primary
   - type: grid_section
     title: Which Producer sounds like you?
