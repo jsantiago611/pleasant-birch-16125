@@ -5,7 +5,7 @@ sections:
     title: You want
     subtitle: ''
     content: |
-      → More Leads
+      ☑ More Leads
 
       → More Sales
 
