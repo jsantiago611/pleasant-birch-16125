@@ -282,7 +282,7 @@ sections:
   - type: cta_section
     title: Yes! I need this done RIGHT
     actions:
-      - label: Button
+      - label: Choose My Design
         url: /pricing
         style: primary
     actions_position: bottom
