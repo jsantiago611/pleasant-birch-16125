@@ -32,6 +32,7 @@ sections:
       - label: CHOOSE YOUR DESIGN NOW
         url: /features
         style: primary
+        has_icon: true
     actions_position: right
     actions_width: fourty
     align: left
