@@ -114,7 +114,10 @@ sections:
   - type: features_section
     features:
       - title: Don't sweat.
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: >-
+          We're here to get you a blazing-fast modern website that attracts the
+          right customers, alleviates customer service work, and increases
+          trust.
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
