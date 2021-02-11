@@ -5,11 +5,11 @@ sections:
     title: You want
     subtitle: ''
     content: |
-      1.  More leads
+      More leads
 
-      2.  More Sales
+      More Sales
 
-      3.  More Authority
+      More Authority
     actions:
       - label: Choose Your Design
         url: /pricing
