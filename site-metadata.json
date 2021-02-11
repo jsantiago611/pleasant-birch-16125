@@ -24,7 +24,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "CHOOSE YOUR DESIGN",
+                "label": "CHOOSE YOUR DESIGN NOW",
                 "url": "/pricing",
                 "style": "primary"
             }
