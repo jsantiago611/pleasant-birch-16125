@@ -27,7 +27,7 @@ sections:
   - type: cta_section
     title: ''
     content: |
-      ##### Conversion-driven Sites for Independent Insurance Agencies ↓
+      ##### Conversion-driven Sites for Independent Insurance Agencies
     actions:
       - label: CHOOSE YOUR DESIGN NOW
         url: /features
