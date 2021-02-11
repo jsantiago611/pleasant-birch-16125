@@ -37,7 +37,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: none
-    background_color: secondary
+    background_color: primary
   - type: grid_section
     title: Which Producer sounds like you?
     subtitle: ''
