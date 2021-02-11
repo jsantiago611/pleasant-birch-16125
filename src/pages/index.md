@@ -107,7 +107,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     align: center
-    background_color: none
+    background_color: secondary
     padding_top: large
   - type: features_section
     title: Features Section
