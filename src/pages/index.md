@@ -184,15 +184,14 @@ sections:
   - type: grid_section
     title: Why would you want to work with a ______?
     grid_items:
-      - content: >+
-          ##### *You can sleep. Blissfully.*
+      - content: >
+          ###### *You can sleep. Blissfully.*
 
 
           You never get stood up, left wondering: ‘where in the world is my
           copy?’ I don't do late. I don't do mediocre. In fact, I don't do
           anything I can't excel in, because I'm a Perfectionist with a capital
           P.
-
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: top
